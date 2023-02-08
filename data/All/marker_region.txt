@@ -1,0 +1,14 @@
+g__Clostridium;
+g__Bifidobacterium;
+g__Bacteroides;
+g__Turicibacter;
+g__Subdoligranulum;
+g__Akkermansia;
+g__Streptococcus;
+g__Phascolarctobacterium;
+g__Prevotella;
+g__WAL_1855D;
+g__Parabacteroides;
+g__Haemophilus;
+g__Paraprevotella;
+g__Ruminiclostridium;

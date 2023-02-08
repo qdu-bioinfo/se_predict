@@ -1,0 +1,3 @@
+g__Pantoea;
+g__Escherichia_Shigella;
+g__Lachnospira;

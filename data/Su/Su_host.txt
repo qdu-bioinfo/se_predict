@@ -1,0 +1,8 @@
+Sample_ID	Sex	Age	BMI	Probiotics	Diseases
+S_045795255	Female	Y	H	No	Yes
+S_045837807	Female	M	M	Yes	Yes
+S_063386775	Male	O	H	No	Yes
+S_508247844	Male	O	M	No	No
+S_510944923	Female	M	L	Yes	Yes
+S_525684228	Female	M	H	Yes	No
+S_598663606	Female	M	M	No	No

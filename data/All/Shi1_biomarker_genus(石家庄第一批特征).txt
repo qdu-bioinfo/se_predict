@@ -1,0 +1,10 @@
+g__Pseudobutyrivibrio;
+g__Escherichia_Shigella;
+g__Pantoea;
+g__Peptoclostridium;
+g__Roseburia;
+g__Faecalibacterium;
+g__Lachnospira;
+g__Veillonella;
+g__Dorea;
+g__Erysipelotrichaceae_Group;
